@@ -2,7 +2,8 @@
 
 A web app that compares your resume with a job description and tells you how well they match, what skills are missing, and how to improve.
 
-🔗 **Live demo:** PASTE-YOUR-STREAMLIT-LINK-HERE
+🔗 **Live demo:** https://ai-resume-analyzer-takyip5zqctp7egswrwaus.streamlit.app/
+ 
 
 ## What it does
 - Upload a resume (PDF) or paste the text
